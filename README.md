@@ -1,2 +1,16 @@
 # Smart_fleet_routing
-Developed an optimization solution to determine the most efficient set of routes for a fleet of vehicles serving a given set of customers. By leveraging advanced algorithms and optimization techniques, the system minimizes total travel costs and distances while ensuring timely and effective service delivery. Using tools like OR-Tools, OpenStreetMap (OSM), and NetworkX, I mapped out optimal paths that account for road networks, traffic conditions, and operational constraints. This approach enhances fleet efficiency, reduces fuel consumption, and lowers overall transportation costs. The solution is particularly beneficial for logistics, distribution, and public services, where route optimization plays a crucial role in daily operations. By integrating data-driven decision-making with AI-powered route planning, this project provides a scalable and effective way to manage vehicle routing. The implementation not only improves operational efficiency but also contributes to sustainability by reducing unnecessary travel and emissions.
+Overview
+
+I developed an optimization solution to determine the most efficient set of routes for a fleet of vehicles serving a given set of customers. By leveraging advanced algorithms and optimization techniques, the system minimizes total travel costs and distances while ensuring timely and effective service delivery.
+
+By optimizing the route planning for a fleet of vehicles serving a designated set of customers, we can reduce overall travel costs and minimize the total distance covered. This solution is particularly beneficial for industries such as logistics, distribution, and public services, where efficient transportation plays a crucial role in daily operations.
+
+Features
+
+Route Optimization: Determines the most efficient paths for vehicles to follow.
+
+Cost Reduction: Minimizes operational expenses by optimizing routes.
+
+Data-Driven Approach: Uses real-world data to enhance route planning.
+
+Scalability: Can be adapted for various fleet sizes and industries.
